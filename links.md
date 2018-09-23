@@ -5,14 +5,20 @@ The International Phonetic Alphabet (IPA) is a system where each symbol is assoc
 
 * [Phonetic alphabet - **examples of sounds**](https://www.londonschool.com/blog/phonetic-alphabet/)
 
-English pronunciation lesson - Use international phonetic alphabet (Part 1)
+* English pronunciation lesson - Use international phonetic alphabet (Part 1)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=si_N7YH-uj4
 " target="_blank"><img src="http://img.youtube.com/vi/si_N7YH-uj4/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-English pronunciation lesson - Differentiating vowel sounds (Part 2)
+* English pronunciation lesson - Differentiating vowel sounds (Part 2)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=r48CjYiMkt8
 " target="_blank"><img src="http://img.youtube.com/vi/r48CjYiMkt8/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+* English pronunciation lesson - Clarifying use of consonants (Part 3)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sG2njaSKlV0
+" target="_blank"><img src="http://img.youtube.com/vi/sG2njaSKlV0/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
